@@ -16,3 +16,17 @@ La ecuación es (672)(3)+(38)(-53)=2
 
 
 Como se ve en la imagen.
+
+
+Las respuestas a las distintas ecuaciones son:
+
+EC1: x=22-67k, y=64k-21
+
+
+EC2: x=-(91+337k), y=84+311k
+
+
+EC3: x=-(332+991k), y=330+991
+
+
+
